@@ -15,12 +15,14 @@ The mark is designed to be used at a variety of sizes, as it may appear in extre
 
 The mark uses two colors; a dark grey and a red with a slight orange/pink tint. The colors are shown here:
 
-|      | grey | orange |
-|------|------|--------|
-| hex  | #333 | #F44   |
-| hsv  |      |        |
+|      | grey             | orange           |
+|------|------------------|------------------|
+| hex  | <span style="color: white; background: #333;">#333</span> | <span style="color: white; background: #F44;">#F44</span> |
+| RGB  | 51, 51, 51, 1    | 255, 68, 68, 1   |
+| HSL  | 0, 0%, 20%       | 0, 100%, 63%     |
+| HSV  | 0%, 0%, 0%, 80%  | 0%, 73%, 73%, 0% |
 
-However, many if not most printing will be monochrome, and the mark is also designed to be readable in a single color:
+However, many if not most printing will be monochrome, and the mark is also designed to be readable in a single color, as in these examples:
 
 ![monochrome variations](artwork/monochrome.png)
 
