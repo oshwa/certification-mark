@@ -22,9 +22,19 @@ The mark uses two colors; a dark grey and a red with a slight orange/pink tint. 
 | HSL  | 0, 0%, 20%       | 0, 100%, 63%     |
 | HSV  | 0%, 0%, 0%, 80%  | 0%, 73%, 73%, 0% |
 
+
+## Monochrome
+
 However, many if not most printing will be monochrome, and the mark is also designed to be readable in a single color, as in these examples:
 
 ![monochrome variations](artwork/monochrome.png)
+
+
+## In print
+
+You may wish to use the mark in your documentation or on packaging; below is an example of how you might do this: 
+
+![instructions](artwork/instructions.png)
 
 In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] w35bir`.
 
