@@ -51,6 +51,14 @@ You can find these file formats in the `/templates/` folder of this repository.
 
 We are accepting pull requests containing the mark in new file formats, and if you have a desired file format, please [open an issue to request it here](https://github.com/oshwa/certification-mark/issues/new).
 
+Please include in either your issue or pull request:
+
+* the file format with a link to documentation on the format
+* a list of programs which may edit this format, and their FLOSS license or approximate cost
+* any additional notes or tips on usage
+
+We may request revisions to submitted templates, or additional details about format requests. 
+
 
 # Attribution
 
