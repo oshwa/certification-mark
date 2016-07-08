@@ -36,7 +36,7 @@ You may wish to use the mark in your documentation or on packaging; below is an 
 
 ![instructions](artwork/instructions.png)
 
-In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] w35bir`.
+In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] w35bir | Certified open source hardware | oshwa.org/cert`.
 
 
 # Formats
