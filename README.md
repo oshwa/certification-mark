@@ -1,4 +1,4 @@
-This repository contains artwork and usage guidelines for the graphic mark of the Open Source Hardware Self-Certification program hosted by OSHWA. The mark itself can be seen here:
+This repository contains artwork and usage guidelines for the graphic mark of the [Open Source Hardware Self-Certification program](http://certificate.oshwa.org/) hosted by OSHWA. The mark itself can be seen here:
 
 ![example mark](artwork/example.png)
 
