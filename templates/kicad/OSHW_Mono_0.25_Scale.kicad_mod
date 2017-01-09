@@ -1,9 +1,9 @@
-(module OSHW_Mono_0.25_Scale (layer F.Cu) (tedit 586FFF84)
+(module OSHW_Mono_0.25_Scale (layer F.Cu) (tedit 5873D204)
   (fp_text reference OSHW_Mono_0.25_Scale (at 0 -5.758378) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value US00001 (at 0 4) (layer F.SilkS)
-    (effects (font (size 1.575 1.575) (thickness 0.225)))
+  (fp_text value US00001 (at 0 4.5) (layer F.SilkS)
+    (effects (font (size 1.475 1.475) (thickness 0.2)))
   )
   (fp_poly (pts (xy -5.205677 -2.09181) (xy -5.205677 -1.880143) (xy -5.205677 2.498711) (xy -5.205677 2.710378)
     (xy -4.99401 2.710378) (xy 4.99401 2.710378) (xy 5.205677 2.710378) (xy 5.205677 2.498711)
