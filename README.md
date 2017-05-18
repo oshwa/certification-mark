@@ -36,7 +36,7 @@ You may wish to use the mark in your documentation or on packaging; below is an 
 
 ![instructions](artwork/instructions.png)
 
-In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] w35bir | Certified open source hardware | oshwa.org/cert`.
+In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] US0123 | Certified open source hardware | oshwa.org/cert`.
 
 
 # Formats
@@ -64,6 +64,6 @@ We may request revisions to submitted templates, or additional details about for
 
 The mark was based on ideas submitted by the OSHWA community in this blog post: http://www.oshwa.org/2016/03/17/open-hardware-certification-mark-call-for-ideas/, and primarily on the design submitted by Matt Maier. Thanks to everyone who provided input!
 
-The typeface is Deja Vu Sans Mono, which is freely licensed at https://dejavu-fonts.org, and the mark was designed in Inkscape, free software available at https://inkscape.org.
+The typeface is Deja Vu Sans Mono, which is freely licensed at https://dejavu-fonts.github.io/, and the mark was designed in Inkscape, free software available at https://inkscape.org.
 
 For inspiration and to see what 'going overboard' means in the context of a style guide, see NASA's 1976 logo guidelines: https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf
