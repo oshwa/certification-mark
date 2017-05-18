@@ -7,6 +7,11 @@ When self-certifying, you may use the contained design files, provided in a rang
 This repository is not for the text of the certification itself, nor (unfortunately), due to how trademark law underpins the certification program, can we accept changes to or allow derivative works of the mark itself. However, we are seeking submissions/pull requests which add new file formats to the collection (see below).
 
 
+## Unique code
+
+The unique IDs [announced here](https://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/) are now included in the mark, optionally, as shown in the example above. This uses a 2-letter country code plus a 4-digit unique identifier. 
+
+
 # Usage
 
 The mark is designed to be used at a variety of sizes, as it may appear in extremely small sizes on circuit boards, or in larger sizes on open source hardware blimps and skyscrapers.
