@@ -4,7 +4,7 @@ This repository contains artwork and usage guidelines for the graphic mark of th
 
 The mark itself can be seen here:
 
-![example mark](artwork/example.png)
+![example mark](artwork/oshwacert8dig.jpg)
 
 When self-certifying, you may use the contained design files, provided in a range of file formats, to identify your work as certified Open Source Hardware, so long as you respect the terms of the certification program.
 
