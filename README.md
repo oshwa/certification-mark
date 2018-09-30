@@ -13,7 +13,7 @@ This repository is not for the text of the certification itself, nor (unfortunat
 
 ## Unique code
 
-The unique IDs [announced here](https://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/) are now included in the mark, optionally, as shown in the example above. This uses a 2-letter country code plus a 4-digit unique identifier. 
+The unique IDs [announced here](https://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/) are now included in the mark, optionally, as shown in the example above. This uses a 2-letter country code plus a 6-digit unique identifier. Licensees can choose to use the entire UID (e.g. US000001) or a shortened UID that removes the placeholding zeros (e.g. US1).
 
 
 # Usage
@@ -45,7 +45,7 @@ You may wish to use the mark in your documentation or on packaging; below is an 
 
 ![instructions](artwork/instructions.png)
 
-In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] US0123 | Certified open source hardware | oshwa.org/cert`.
+In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] US000123 | Certified open source hardware | oshwa.org/cert`.
 
 
 # Formats
