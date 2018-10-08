@@ -76,3 +76,7 @@ The mark was based on ideas submitted by the OSHWA community in this blog post: 
 The typeface is Deja Vu Sans Mono, which is freely licensed at https://dejavu-fonts.github.io/, and the mark was designed in Inkscape, free software available at https://inkscape.org.
 
 For inspiration and to see what 'going overboard' means in the context of a style guide, see NASA's 1976 logo guidelines: https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf
+
+# EULA
+
+The EULA covering the use of the logo is part of the [license agreement](https://certification.oshwa.org/license-agreement.html) governing the certification application.
