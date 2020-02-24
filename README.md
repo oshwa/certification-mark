@@ -1,4 +1,4 @@
-This repository contains artwork and usage guidelines for the graphic mark of the [Open Source Hardware Self-Certification program](http://certificate.oshwa.org/) hosted by OSHWA. 
+This repository contains artwork and usage guidelines for the graphic mark of the [Open Source Hardware Self-Certification program](https://certification.oshwa.org/) hosted by OSHWA. 
 
 [This page](http://oshwmark.capablerobot.com/) will help you generate a version of the logo with your UID.
 
