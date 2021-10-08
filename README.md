@@ -1,6 +1,6 @@
-This repository contains artwork and usage guidelines for the graphic mark of the [Open Source Hardware Self-Certification program](https://certification.oshwa.org/) hosted by OSHWA. 
+This repository contains artwork and usage guidelines for the graphic mark of the [Open Source Hardware Self-Certification program](https://certification.oshwa.org/) hosted by OSHWA.
 
-[This page](https://oshwa.github.io/certification-mark-generator/facts) will help you generate an SVG version of the logo with your UID. 
+[This page](http://bl.ocks.org/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0) will help you generate an SVG version of the logo with your UID. 
 
 The mark itself can be seen here:
 
@@ -41,7 +41,7 @@ However, many if not most printing will be monochrome, and the mark is also desi
 
 ## In print
 
-You may wish to use the mark in your documentation or on packaging; below is an example of how you might do this: 
+You may wish to use the mark in your documentation or on packaging; below is an example of how you might do this:
 
 ![instructions](artwork/instructions.png)
 
@@ -66,7 +66,7 @@ Please include in either your issue or pull request:
 * a list of programs which may edit this format, and their FLOSS license or approximate cost
 * any additional notes or tips on usage
 
-We may request revisions to submitted templates, or additional details about format requests. 
+We may request revisions to submitted templates, or additional details about format requests.
 
 
 # Attribution
