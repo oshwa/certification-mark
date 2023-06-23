@@ -2,7 +2,7 @@ This repository contains artwork and usage guidelines for the graphic mark of th
 
 [This page](http://bl.ocks.org/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0) will help you generate an SVG version of the logo with your UID.
 
-[This page](index.html) will help you generate an SVG version of the logo with your UID.
+[This page](https://pubinv.github.io/certification-mark/index.html) will help you generate an SVG version of the logo with your UID.
 
 The mark itself can be seen here:
 
