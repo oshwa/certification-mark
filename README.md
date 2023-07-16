@@ -1,82 +1,47 @@
-This repository contains artwork and usage guidelines for the graphic mark of the [Open Source Hardware Self-Certification program](https://certification.oshwa.org/) hosted by OSHWA.
+# OSHW Certification Mark
 
-[This page](http://bl.ocks.org/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0) will help you generate an SVG version of the logo with your UID. 
+This repository contains the design source files and prepared EDA files for the [Open Source Hardware Certification Mark](https://certification.oshwa.org/mark-usage.html).
 
-The mark itself can be seen here:
+If you just need an SVG or PNG file for your project, head to your [project page in the certification directory](https://certification.oshwa.org/list.html), you can download ready-to-go images with your project's UID from that page.
 
-![example mark](artwork/oshwacert8dig.jpg)
+For more details on the Mark and its usage, see [the mark usage guidelines](https://certification.oshwa.org/mark-usage.html) and [license agreement](https://certification.oshwa.org/license-agreement.html).
 
-When self-certifying, you may use the contained design files, provided in a range of file formats, to identify your work as certified Open Source Hardware, so long as you respect the terms of the certification program.
+## Design source files
 
-This repository is not for the text of the certification itself, nor (unfortunately), due to how trademark law underpins the certification program, can we accept changes to or allow derivative works of the mark itself. However, we are seeking submissions/pull requests which add new file formats to the collection (see below).
+Design source files are located under [`/sources`](./sources) in SVG format. Pre-made PNG files are also available.
 
+## EDA files
 
-## Unique code
+Files for EDA software are located under [`/eda`](./eda). If you want to add new EDA files or update existing ones, see [contributing](#contributing)
 
-The unique IDs [announced here](https://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/) are now included in the mark, optionally, as shown in the example above. This uses a 2-letter country code plus a 6-digit unique identifier. Licensees can choose to use the entire UID (e.g. US000001) or a shortened UID that removes the placeholding zeros (e.g. US1).
+## Contributing
 
+We're happy to accept pull requests to add or update EDA files or alternative file formats for design programs. When you make your pull request, please include:
 
-# Usage
+* The file format with a link to documentation on the format
+* A list of programs which may edit this format, and their FLOSS license or approximate cost
+* Any additional notes or tips on usage
 
-The mark is designed to be used at a variety of sizes, as it may appear in extremely small sizes on circuit boards, or in larger sizes on open source hardware blimps and skyscrapers.
+We may request revisions or ask for additional details.
 
-![varying sizes](artwork/sizes.png)
+Note that due to how trademark law underpins the certification program, we can't accept changes to or allow derivative works of the mark itself.
 
-The mark uses two colors; a dark grey and a red with a slight orange/pink tint. The colors are shown here:
+## Changelog
 
-|      | grey             | orange           |
-|------|------------------|------------------|
-| hex  | <span style="color: white; background: #333;">#333</span> | <span style="color: white; background: #F44;">#F44</span> |
-| RGB  | 51, 51, 51, 1    | 255, 68, 68, 1   |
-| HSL  | 0, 0%, 20%       | 0, 100%, 63%     |
-| HSV  | 0%, 0%, 0%, 80%  | 0%, 73%, 73%, 0% |
+**v2.6**
 
+- Design modified for the final project UID structure, with two characters for the country code followed by six numbers.
+- Wide (horizontal) design added
+- KiCAD EDA files re-created
 
-## Monochrome
+**v2.5**
 
-However, many if not most printing will be monochrome, and the mark is also designed to be readable in a single color, as in these examples:
+- Project UID structure changed from six-character random alphanumeric to six-character with two country code letters followed by four numbers.
 
-![monochrome variations](artwork/monochrome.png)
+**v2.4**
 
+- Initial public version
 
-## In print
+## License
 
-You may wish to use the mark in your documentation or on packaging; below is an example of how you might do this:
-
-![instructions](artwork/instructions.png)
-
-In addition, if displaying in text, you may represent the mark using square brackets: `[OSHW]` as you might see a copyright represented as `(c)`. The unique code can then be alongside, as in: `[OSHW] US000123 | Certified open source hardware | oshwa.org/cert`.
-
-
-# Formats
-
-The "master" copy is in SVG, and we're starting with an initial list of commonly readable formats. The formats available now include:
-
-- SVG
-- PDF
-- PNG
-
-You can find these file formats in the `/templates/` folder of this repository.
-
-We are accepting pull requests containing the mark in new file formats, and if you have a desired file format, please [open an issue to request it here](https://github.com/oshwa/certification-mark/issues/new).
-
-Please include in either your issue or pull request:
-
-* the file format with a link to documentation on the format
-* a list of programs which may edit this format, and their FLOSS license or approximate cost
-* any additional notes or tips on usage
-
-We may request revisions to submitted templates, or additional details about format requests.
-
-
-# Attribution
-
-The mark was based on ideas submitted by the OSHWA community in this blog post: http://www.oshwa.org/2016/03/17/open-hardware-certification-mark-call-for-ideas/, and primarily on the design submitted by Matt Maier. Thanks to everyone who provided input!
-
-The typeface is Deja Vu Sans Mono, which is freely licensed at https://dejavu-fonts.github.io/, and the mark was designed in Inkscape, free software available at https://inkscape.org.
-
-For inspiration and to see what 'going overboard' means in the context of a style guide, see NASA's 1976 logo guidelines: https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf
-
-# EULA
-
-The EULA covering the use of the logo is part of the [license agreement](https://certification.oshwa.org/license-agreement.html) governing the certification application.
+Usage of the mark is covered by the OSHWA certification [license agreement](https://certification.oshwa.org/license-agreement.html).
